@@ -3,7 +3,7 @@
       {
         "title": "SonarQube code review Pipelines",
         "description": "Discover different tools and techniques for continuous integration on Kubernetes, Jenkins and sonarQube",
-        "id": "code-review pipeline"
+        "id": "continuous-integration"
       }
     ],
     "scenarios": []
