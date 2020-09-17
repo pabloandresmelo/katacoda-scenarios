@@ -1,55 +1,10 @@
 {
     "courses": [
-     /* {
-        "title": "Kubernetes Fundamentals",
-        "description": "Learn the fundamental building blocks of Kubernetes with hands-on explanations.",
-        "id": "kubernetes-fundamentals"
-      },
-      {
-        "title": "Kubernetes Applications",
-        "description": "Discover different applications you can easily start on Kubernetes.",
-        "id": "kubernetes-applications"
-      },
-      {
-        "title": "Containers for Kubernetes",
-        "description": "Learn how to build distilled containers, expecially when they run on Kubernetes.",
-        "id": "kubernetes-containers"
-      },
-      {
-        "title": "Kubernetes Serverless",
-        "description": "Discover different techniques for running apps and functions on Kubernetes.",
-        "id": "kubernetes-serverless"
-      },*/
       {
         "title": "SonarQube code review Pipelines",
         "description": "Discover different tools and techniques for continuous integration on Kubernetes, Jenkins and sonarQube",
         "id": "code-review pipeline"
-      },
-     /* {
-        "title": "Kubernetes Observability",
-        "description": "Learn techniques for inspecting Kubernetes and your applications distributed across a cluster.",
-        "id": "kubernetes-observability"
-      },
-      {
-        "title": "Kubernetes Extensibility",
-        "description": "Learn techniques for extending Kubernetes beyond its default features and resources",
-        "id": "kubernetes-extensibility"
-      },
-      {
-        "title": "Kubernetes Chaos",
-        "description": "Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.",
-        "id": "kubernetes-chaos"
-      },
-      {
-        "title": "Kubernetes Machine Learning",
-        "description": "Learn techniques for building, modeling and serving Machine Learning solutions on Kubernetes.",
-        "id": "kubernetes-ml"
-      },
-      {
-        "title": "Kubernetes Puzzlers",
-        "description": "Learn Kubernetes by solving some problems. Apply your excellent diagnosing skills to fix broken scenarios. Some are tricky, are you up for the challenge?",
-        "id": "kubernetes-puzzlers"
-      }*/
+      }
     ],
     "scenarios": []
   }
