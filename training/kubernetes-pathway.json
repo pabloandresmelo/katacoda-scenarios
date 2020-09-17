@@ -6,7 +6,7 @@
       "title": "SonarQube",
       "description": "Code Analysis with SonarQube on Kubernetes.",
       "pathway_id": "javajon",
-      "id": "code-review pipeline/sonarqube",
+      "id": "continuous-integration/sonarqube",
       "course_id": "sonarqube"
     }    
   ]
