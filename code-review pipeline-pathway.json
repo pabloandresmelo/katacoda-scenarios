@@ -3,8 +3,7 @@
     "icon": "fa-kubernetes",
     "description": "Discover different tools and techniques for continuous delivery on Kubernetes.",
     "courses": [
-    /*
-    {
+      {
         "course_id": "registries",
         "title": "Container Registry",
         "description": "Learn how to setup and interact with a private container registry on Kubernetes."
@@ -24,14 +23,11 @@
         "title": "Helm",
         "description": "Learn how to use Helm, a package manager for Kubernetes."
       },
-      */
       {
         "course_id": "sonarqube",
         "title": "SonarQube",
         "description": "Code Analysis with SonarQube on Kubernetes."
-      }
-    /*  
-      ,
+      },
       {
         "course_id": "cdc-with-k8s",
         "title": "Consumer-driven Contracts with Kubernetes",
@@ -42,7 +38,6 @@
         "title": "Python Pipeline to Kubernetes",
         "description": "Build and deploy a Python microservice with Kaniko and Tekton Pipelines."
       }
-    */  
     ]
   }
   
