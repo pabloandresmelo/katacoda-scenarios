@@ -1,0 +1,21 @@
+{
+  "title": "DevOps Labs",
+  "description": "Laboratorios de prácticas y herramientas de DevOps",
+  "courses": [
+    {
+      "title": "Bienvenida",
+      "description": "Entenderás el contexto de la aplicación y prepararás tu ambiente de trabajo",
+      "course_id": "bienvenida"
+    },
+    {
+      "title": "Continuous Integration",
+      "description": "Experimentarás un flujo de trabajo de Continuous Integration",
+      "course_id": "continuous-integration"
+    },
+    {
+      "title": "Delivery Pipeline",
+      "description": "Crearás y ejecutarás un Delivery Pipeline",
+      "course_id": "delivery-pipeline"
+    }
+  ]
+}
