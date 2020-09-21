@@ -11,19 +11,16 @@ This course is made up of 4 open source modules.
 
 ## Katacoda environment
 
-The modules make use of Katacoda environments. Those are ephemeral environments which are created just for you, on the fly. They
-will time out after one hour. The good news is that you can explore around and get out of the script: it is your own environment.
+Los escenarios de estudio  creados en Katacoda, son entornos efímeros que se crean unica y exclusivamente para ti, estos son creados sobre la marcha. 
+y una vez utilizados por ti expirará después de una hora. La buena noticia para ti es que esto perminte que en algun momento de tu aprendizaje puedas
+explorar y salir del guión de la kata, pudiendo hacer estas exploraciones solo en tu propio entorno sin perjudiar a los demas, miembro de la comunidad.
 
-So, go grab a cup of your favorite caffeinated beverage, close your email, put your phone on plane mode, and let's get started!
+Entendiendo esto, preparate una taza de tu bebida con cafeína favorita, cierre tu correo electrónico, Whatsapp, pon tu teléfono en modo avión y ¡Let's rock!
 
 ## Welcome module
 
-In this Welcome module lab, we will get you started and setup a dedicated environment for you, to allow you complete the labs for
-the other modules in the **Online DevOps Dojo** at your own pace.
+En este módulo de bienvenida,vamos a ayudarles a configurar tu entorno de experimentacion, dicho entorno es esencial para poder completar los demas escenarios
+de aprendizaje del Dojo de DevOps y asi aprender a tu propio ritmo. 
 
-First, to begin let us introduce you to the story of a business formed by the CEO Charlie, a DevOps team, an application and its
-delivery chain (continuous delivery pipeline).
+Lo Primero, que haremos para iniciar este viaje de aprendizaje es el conocer la historia de nuestro negocio, el cual esta formado por el Charlie CEO y un equipo que desarrolla y mantiene una applicacio  de software usada por el negocio asi como el pipeline de entrega continua que es usado por el equipo en el proceso de desarrollo de la misma. 
 
-Once upon a time, not so long ago in a galaxy not so far away...
-
-![](../../assets/online-devops-dojo/welcome/onceuponatime.jpg)

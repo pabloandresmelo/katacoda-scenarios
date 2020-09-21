@@ -20,17 +20,17 @@ if [ "$DEBUG" = false ] ; then
 fi
 
 # Install Python pre-req
-echo -e "${COLINFO}Installing dependencies...${COLRESET}"
+echo -e "${COLINFO}Instalando dependencias ...${COLRESET}"
 2>/dev/null 1>/dev/null python3 -m pip install pyyaml requests
 
 #
 # Ask for GitHub PAT
 #
-echo -e "${COLQUESTION}Please create and enter a Personal Access Token from ${GITHUB} at https://${GITHUB}/settings/tokens:${COLRESET}"
+echo -e "${COLQUESTION}Por favor crea e ingresa tu token de acceso personal generado en ${GITHUB} at https://${GITHUB}/settings/tokens:${COLRESET}"
 read TOKEN
 export TOKEN
 
-echo -e "${COLLOGS}Fetching your details from GitHub...${COLRESET}"
+echo -e "${COLLOGS} Obteniendo la informacion desde GitHub ......${COLRESET}"
 USER_JSON=$(curl ${CURL_NODEBUG} -H "Authorization: token ${TOKEN}" -H "Accept: application/vnd.github.v3+json" -X GET ${GITHUBAPIURL}/user)
 
 SHORTNAME=$(echo $USER_JSON | jq -r '.login')
@@ -48,7 +48,7 @@ check_credentials()
   curl ${CURL_NODEBUG} -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github.v3+json" -X GET ${GITHUBAPIURL} | grep "current_user_url"
   CREDS_NOT_OK=$?
   if [ $CREDS_NOT_OK -ne 0 ]; then
-    echo -e "${COLQUESTION}Error: it seems that your credentials are invalid. Please use your GitHub user account and a Personal Access Token with 'repo' and 'admin:repo_hook' scopes at https://github.com/settings/tokens/new ${COLRESET}"
+    echo -e "${COLQUESTION}Error: Al parecer tus credenciales no son válidas. Por favor ingresa a tu cuenta de GitHub y crea un token de acceso personal con el permiso de 'repo' y 'admin: repo_hook' ingresando a la direccion, en tu navegador web.  https://github.com/settings/tokens/new ${COLRESET}"
     exit -1
   fi
 }
@@ -57,7 +57,7 @@ check_credentials
 # Copy the repository template https://github.com/dxc-technology/pet-clinic to the user
 pet_clinic_copy()
 {
-  echo -e "${COLINFO}Copying $REPO repository to user's account ..${COLRESET}"
+  echo -e "${COLINFO}Copiando.. $REPO a los repositorios del usuario..${COLRESET}"
   echo -e "${COLLOGS}"
 
   # Clone the template repository
@@ -69,7 +69,7 @@ pet_clinic_copy()
   git remote add origin https://$SHORTNAME:$TOKEN@${GITHUB}/${SHORTNAME}/${REPO}.git
 
   git add LICENSE
-  git commit -m "Add License"
+  git commit -m "agregando la información de uso y licenciamiento.."
   git push origin master
 
   # Disable vulnerability alerts
@@ -79,7 +79,7 @@ pet_clinic_copy()
     --header 'Cookie: logged_in=no'
   
   git add -f .
-  git commit -m "Initial commit for Pet Clinic application"
+  git commit -m "Realizando el commit inicia para la aplicación Pet Clinic"
   git push origin master
   cd -
 }
@@ -92,14 +92,14 @@ if [ $REPO_DOES_NOT_EXIST -eq 0 ]; then
   curl ${CURL_NODEBUG} -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github.v3+json" -X POST --data "{\"name\":\"${REPO}\"}" ${GITHUBAPIURL}/user/repos | grep "Not Found"
   USER_HAS_NO_ACCESS_TO_REPO=$?
   if [ $USER_HAS_NO_ACCESS_TO_REPO -eq 0 ]; then
-    echo -e "${COLQUESTION}Error: it seems that your credentials are invalid. As per the instructions please use your GitHub user account and a Personal Access Token with 'repo' and 'admin:repo_hook' scopes at https://github.com/settings/tokens/new ${COLRESET}"
+    echo -e "${COLQUESTION} Error: Al parecer tus credenciales no son válidas. Por favor ingresa a tu cuenta de GitHub y crea un token de acceso personal con el permiso de 'repo' y 'admin: repo_hook' ingresando a la direccion, en tu navegador web.  https://github.com/settings/tokens/new${COLRESET}"
     exit 1
   fi
  
   curl ${CURL_NODEBUG} -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github.v3+json" -X GET ${GITHUBAPIURL}/repos/${ORGREPO}/${REPO} | grep "Not Found"
   PETCLINIC_NOT_AVAILABLE=$?
   if [ $PETCLINIC_NOT_AVAILABLE -eq 0 ]; then
-    echo -e "${COLQUESTION}Error: a ressource is missing for the scenario to execute. Please submit an issue to https://${GITHUB}/${ORGREPO}/online-devops-dojo/issues .${COLRESET}"
+    echo -e "${COLQUESTION}Error: Hace falta un recurso para poder ejecutar el escenario. por favor envíe un problema a https://${GITHUB}/${ORGREPO}/devops-dojo/issues .${COLRESET}"
     exit 1
   else
     pet_clinic_copy
