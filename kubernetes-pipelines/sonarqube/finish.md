@@ -27,7 +27,7 @@ With these steps you have learned how to:
 * [PMD](https://pmd.github.io/)
 * [Findbugs](http://findbugs.sourceforge.net/)
 * Careful when upgrading SonarQube tag images or its plugins. It can be dependency hell with a complex matrix. If your container is failing it's due to mismatched versions.
-
+<!--
 ------
 <p style="width: 100%; text-align: center; padding: 1em; margin: 3em; margin-left: 10em; margin-right: 10em; border-; 1px; border-color: olive;  border-radius: 12px; border-style:outset">
 <img align="left" src="./assets/jonathan-johnson.jpg" width="100" style="border-radius: 12px">
@@ -35,3 +35,4 @@ For a deeper understanding of these topics and more join <br>[Jonathan Johnson](
 <br><br>
 <b>Software Architectures ★ Speaker ★ Workshop Hosting ★ Kubernetes & Java Specialist</b>
 </p>
+-->
