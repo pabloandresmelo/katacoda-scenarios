@@ -1,0 +1,23 @@
+{
+    "title": "Kubernetes Pipelines",
+    "icon": "fa-kubernetes",
+    "description": "Discover different tools and techniques for continuous delivery on Kubernetes.",
+    "courses": [
+      {
+        "course_id": "registries",
+        "title": "Container Registry",
+        "description": "Learn how to setup and interact with a private container registry on Kubernetes."
+      },
+      {
+        "course_id": "helm",
+        "title": "Helm",
+        "description": "Learn how to use Helm, a package manager for Kubernetes."
+      },
+      {
+        "course_id": "sonarqube",
+        "title": "SonarQube",
+        "description": "Code Analysis with SonarQube on Kubernetes."
+      }
+    ]
+  }
+  
