@@ -36,7 +36,7 @@
       "text": "intro.md",
       "courseData": "init-background.sh",
       "code": "init-foreground.sh",
-      "credits": "[Jonathan Johnson](http://www.dijure.com)"
+      "credits": "[Jenkins oficial website](https://www.jenkins.io)"
     },
     "finish": {
       "text": "finish.md"
