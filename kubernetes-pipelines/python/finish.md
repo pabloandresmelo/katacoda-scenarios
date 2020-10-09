@@ -28,7 +28,7 @@ With these steps, you have learned:
 * [Kubernetes Podcast on Tekton](https://kubernetespodcast.com/episode/047-tekton/)
 * [Tekton Operator](https://github.com/tektoncd/operator)
 * [Tekton Plugin for VSCode](https://github.com/redhat-developer/vscode-tekton)
-
+<!--
 ------
 <p style="width: 100%; text-align: center; padding: 1em; margin: 3em; margin-left: 10em; margin-right: 10em; border-; 1px; border-color: olive;  border-radius: 12px; border-style:outset">
 <img align="left" src="./assets/jonathan-johnson.jpg" width="100" style="border-radius: 12px">
@@ -36,3 +36,4 @@ For a deeper understanding of these topics and more join <br>[Jonathan Johnson](
 <br><br>
 <b>Software Architectures ★ Speaker ★ Workshop Hosting ★ Kubernetes & Java Specialist</b>
 </p>
+-->
