@@ -25,7 +25,7 @@ With these steps you have learned:
 * [Tekton Operator](https://github.com/tektoncd/operator)
 * [Tekton Plugin for VSCode](https://github.com/redhat-developer/vscode-tekton)
 * Visit the No Fluff Just Stuff [tour](https://nofluffjuststuff.com) and see [this example and more in action](https://www.nofluffjuststuff.com/conference/speaker/jonathan_johnson).
-
+<!--
 ------
 <p style="width: 100%; text-align: center; padding: 1em; margin: 3em; margin-left: 10em; margin-right: 10em; border-; 1px; border-color: olive;  border-radius: 12px; border-style:outset">
 <img align="left" src="./assets/jonathan-johnson.jpg" width="100" style="border-radius: 12px">
@@ -33,3 +33,4 @@ For a deeper understanding of these topics and more join <br>[Jonathan Johnson](
 <br><br>
 <b>Software Architectures ★ Speaker ★ Workshop Hosting ★ Kubernetes & Java Specialist</b>
 </p>
+-->
