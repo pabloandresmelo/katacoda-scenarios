@@ -24,7 +24,7 @@ https://whatis.techtarget.com/definition/canary-canary-testing)
 - [Jenkins stable Helm chart](https://github.com/kubernetes/charts/tree/master/stable/jenkins)
 - [Kubernetes plugin for Jenkins](https://github.com/jenkinsci/kubernetes-plugin)
 - [Jenkins agent with Docker and Kubectl](https://github.com/radu-matei/jenkins-slave-docker)
-
+<!--
 ## Acknowledgments ##
 
 - A special thanks to the inspiration for this tutorial from [Chris Ricci](https://github.com/cricci82) at CoreOS (now RedHat).
@@ -36,7 +36,7 @@ https://whatis.techtarget.com/definition/canary-canary-testing)
 - Instructional video: [Continuously delivering apps to Kubernetes using Helm - Adnan Abdulhussein (Bitnami)](https://youtu.be/CmPK93hg5w8)
 - [Jenkins Slave with Docker client and kubectl CLI](https://github.com/radu-matei/jenkins-slave-docker)
 
-<!--
+
 ------
 <p style="width: 100%; text-align: center; padding: 1em; margin: 3em; margin-left: 10em; margin-right: 10em; border-; 1px; border-color: olive;  border-radius: 12px; border-style:outset">
 <img align="left" src="./assets/jonathan-johnson.jpg" width="100" style="border-radius: 12px">
