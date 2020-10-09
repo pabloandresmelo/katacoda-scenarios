@@ -22,11 +22,11 @@ With these steps you have learned:
 - [Registry Proxy](https://github.com/helm/charts/tree/master/incubator/kube-registry-proxy)
 - [IBM MAX Breast Cancer Mitosis Detector](https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector)
 - [Deploying Deep-Learning Models to Kubernetes on IBM Cloud](https://medium.com/ibm-watson-data-lab/deploying-deep-learning-models-to-kubernetes-on-the-ibm-cloud-93d4a22cb2ab)
-
+<!--
 ## Homage ##
 
 Lost friend and father, [Bill Becker](https://vimeo.com/73274666). Male Breast Cancer Awareness Week is the third week of October.
-<!--
+
 ------
 <p style="width: 100%; text-align: center; padding: 1em; margin: 3em; margin-left: 10em; margin-right: 10em; border-; 1px; border-color: olive;  border-radius: 12px; border-style:outset">
 <img align="left" src="./assets/jonathan-johnson.jpg" width="100" style="border-radius: 12px">
