@@ -23,7 +23,7 @@ With these steps you have learned:
 - [Adding Bitnami Helm Chart Repo](https://github.com/bitnami/charts)
 - [Host chart repo using GitHub pages](https://github.com/helm/chart-releaser)
 - [Helm plugins](https://helm.sh/docs/community/related)
-
+<!--
 ------
 <p style="width: 100%; text-align: center; padding: 1em; margin: 3em; margin-left: 10em; margin-right: 10em; border-; 1px; border-color: olive;  border-radius: 12px; border-style:outset">
 <img align="left" src="./assets/jonathan-johnson.jpg" width="100" style="border-radius: 12px">
@@ -31,3 +31,4 @@ For a deeper understanding of these topics and more join <br>[Jonathan Johnson](
 <br><br>
 <b>Software Architectures ★ Speaker ★ Workshop Hosting ★ Kubernetes & Java Specialist</b>
 </p>
+-->
