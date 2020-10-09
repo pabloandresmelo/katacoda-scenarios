@@ -76,8 +76,7 @@
       "title": "Consumer-driven Contracts with Kubernetes",
       "text": "intro.md",
       "courseData": "init-background.sh",
-      "code": "init-foreground.sh",
-      "credits": "[Jonathan Johnson](http://www.dijure.com)"
+      "code": "init-foreground.sh"
     },
     "finish": {
       "text": "finish.md"
