@@ -30,7 +30,7 @@ Generarás un token de acceso que se utilizará para conectar los ambientes de t
 
 Realizarás una copia del repositorio de código a tu propia cuenta de GitHub.
 
-* Ingresa al repositorio donde se encuentra el código base [https://github.com/devopslabsonline/pet-clinic](https://github.com/devopslabsonline/pet-clinic).
+* Ingresa al repositorio donde se encuentra el código base [https://github.com/hitokiri-mata/pet-clinic](https://github.com/hitokiri-mata/pet-clinic).
 
 * Para copiar este repositorio a tu cuenta, en la parte superior derecha de la pantalla haz clic en **Fork**.
 
