@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "DevOps Labs",
   "private": false,
-  "description": "Getting started with the Online DevOps Dojo: understanding the back story, setting up your environment.",
+  "description": "Introducción al Dojo de DevOps : Comprender de la historia de fondo e iniciar el proceso de configuración de tu entorno de trabajo",
   "time": "20 minutes",
   "details": {
     "steps": [
