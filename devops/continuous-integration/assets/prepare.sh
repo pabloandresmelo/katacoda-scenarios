@@ -12,8 +12,8 @@ COLINFO="\u001b[37m"
 COLLOGS="\u001b[35m"
 COLRESET="\u001b[m"
 REPO=pet-clinic
-ORGREPO=dxc-DevOpsLabsOnline
-WELCOME_URL=https://dxc-technology.github.io/about-devops-dojo/katacoda/os1-welcome/
+#ORGREPO=dxc-DevOpsLabsOnline
+#WELCOME_URL=https://dxc-technology.github.io/about-devops-dojo/katacoda/os1-welcome/
 
 if [ "$DEBUG" = false ] ; then
   CURL_NODEBUG="-sS"
