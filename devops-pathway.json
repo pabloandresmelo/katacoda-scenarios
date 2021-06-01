@@ -16,6 +16,11 @@
       "title": "Delivery Pipeline",
       "description": "Crearás y ejecutarás un Delivery Pipeline",
       "course_id": "delivery-pipeline"
+    },
+    {
+      "title": "Introduccion a TDD",
+      "description": "KATA introductoria a TDD",
+      "course_id": "tdd-basic"
     }
   ]
 }
