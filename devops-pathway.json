@@ -8,19 +8,29 @@
       "course_id": "bienvenida"
     },
     {
+      "title": "Version Control",
+      "description": "Experimentarás con herramienats de versión de código y estrategias de remas para facilitar tu trabajo. ",
+      "course_id": "version-control"
+    },    
+    {
       "title": "Continuous Integration",
       "description": "Experimentarás un flujo de trabajo de Continuous Integration",
       "course_id": "continuous-integration"
     },
     {
-      "title": "Delivery Pipeline",
-      "description": "Crearás y ejecutarás un Delivery Pipeline",
-      "course_id": "delivery-pipeline"
+      "title": "Continuous Testing",
+      "description": "Conocerás como incluir temas de pruebas automáticas en la validación de calidad de tu proyecto",
+      "course_id": "continuous-testing"
     },
     {
-      "title": "Introduccion a TDD",
-      "description": "KATA introductoria a TDD",
-      "course_id": "tdd-basic"
-    }
+      "title": "Shift Security Left",
+      "description": "Podrás experimentar como promover y trabajar con tema de seguridad en fases tempranas del desarrollo",
+      "course_id": "shift-security-left"
+    },
+    {
+      "title": "Managing Technical Debt",
+      "description": "Conocerás como poder gestionar adecuadamente la deuda técnica en tus proyectos.",
+      "course_id": "managing-technical-debt"
+    }    
   ]
 }
