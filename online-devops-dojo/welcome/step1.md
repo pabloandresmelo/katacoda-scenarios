@@ -1,12 +1,12 @@
 
-This is a story of a business, a team, an application and its delivery chain (their continuous delivery pipeline).
+Esta es la historia de una empresa, un equipo, una aplicación y su cadena de entrega (su pipeline de entrega continua).
 
-The team is part of the IT organization of a large Pet Clinic. The Pet Clinic runs its business on a Java application. The
-application includes features to manage a list of clients (pet owners), their pets, and a list of veterinarians with their
-specialties.
+El equipo es parte del área de TI de una gran clínica de mascotas. La clínica de mascotas maneja su negocio en una aplicación Java. 
+
+La aplicación incluye funcionalidades para administrar una lista de clientes (dueños de mascotas), sus mascotas y una lista de veterinarios con sus especialidades.
 
 The Pet Clinic IT team develops, tests, deploys and supports the Java application.
 
-![Pet Clinic application](../../assets/online-devops-dojo/welcome/petclinic.jpg)
+![Aplicación Clínica de mascotas](../../assets/online-devops-dojo/welcome/petclinic.jpg)
 
-<div style="text-align: right">💡 **TIP**: Adjust the window size vertical scroller to make the welcome module easier to read ◀▶</div>
+<div style="text-align: right">💡 **TIP**: Ajusta el tamaño de la ventana para facilitar la lectura del módulo de bienvenida ◀▶</div>
