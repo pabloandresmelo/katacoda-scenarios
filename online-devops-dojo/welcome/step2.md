@@ -1,55 +1,53 @@
-The **Online DevOps Dojo** has several characters which play a role throughout the modules. Here are the bios of the crew. Get to know them, their challenges and their dreams so you can share in their achievements as our story unfolds.
+El **Online DevOps Dojo** tiene varios personajes que participas a lo largo de los modulos. Aquí están sus biografias. Conoce sus desafios y sueños para que puedas compartir sus logros a medida que se desarrolla nuestra historia.
 
 ### Charlie (CEO)
 
 ![](../../assets/online-devops-dojo/welcome/charlie.png)
 
-**C**harlie is the **C**EO of the company; a technology entrepreneur, investor,
-and philanthropist.
+**C**harlie es **C**EO de la compañia; un empresario tecnológico, inversor
+y filántropo.
 
-Charlie is intent on disrupting the world of Pet Clinics and sees DevOps as key
-to the company's plans.
+Charlie tiene la intención de impactar el mundo de las clínicas para mascotas y considera que DevOps es la clave
+para los planes de la compañía.
 
 ### Chun (Coach)
 
 ![](../../assets/online-devops-dojo/welcome/chun.png)
 
-**C**hun is a **c**oach, change facilitator and technologist. She has been helping organizations make the transition from
-traditional development practices to DevOps practices and culture supported by tooling, and processes to increase the release
-frequency and quality of software.
+**C**hun es un **c**oach, facilitadora del cambio y tecnóloga. Ha estado ayudando a las organizaciones a hacer la transición de
+de las prácticas tradicionales de desarrollo a las prácticas y la cultura de DevOps, con el apoyo de herramientas y procesos para aumentar la frecuencia y calidad del software.
 
-She grew into the role of a DevOps Coach. Chun’s coaching is based on her experience gained from working from startups and
-multinational companies. In her previous roles she was an avid outdoors person and adrenaline junky, lover of fun, hater of being
-on-call and worked extensively to automate as much as possible the build, test, package and deploy process to ensure that the
-systems were created with a LessOps model in mind.
+Ella creció en el papel de DevOps coach. El coaching de Chun se basa en su experiencia adquirida al trabajar en startups y
+empresas multinacionales. En sus funciones anteriores era una persona ávida de actividades al aire libre y adicta a la adrenalina, amante de la diversión, odiaba estar
+de estar de guardia, y trabajó extensamente para automatizar al máximo los procesos de construcción, pruebas, empaquetado y despliegue para asegurar que los
+sistemas fueran creados con un modelo LessOps (menos operaciones) en mente.
 
-Having identified the opportunities DevOps offers she decided to step up and coach others, to practice what she preaches. Chun is
-committed to growing the DevOps coaching community by leveraging her experience to support / coach others.
+Tras identificar las oportunidades que ofrece DevOps, decidió dar un paso adelante y entrenar a otros, para practicar lo que predica. Chun está
+está comprometida con el crecimiento de la comunidad de coaching de DevOps, aprovechando su experiencia para apoyar / entrenar a otros.
 
 ### Brenda (Business)
 
 ![](../../assets/online-devops-dojo/welcome/brenda.png)
 
-**B**renda is from the **b**usiness. One of her goals is to help grow the company. The more she sells, the happier Brenda gets, and
-key to this is the availability and functionality of the Pet Clinic application. Of course, she is aware of engineering capacity,
-technical constraints, security and all that but her primary objective is to deliver often, introduce great products for owners and
-their pets, together with features which will leave Pet Clinic's competitors far behind. She is competitive, but has also developed
-empathy for the team. She is extremely proud of her two golden retrievers, Bonnie and Clyde.
+**B**renda es de **b**usiness. Uno de sus objetivos es ayudar a que la empresa crezca. Cuanto más vende, más feliz se pone, y
+clave para ello es la disponibilidad y funcionalidad de la aplicación Pet Clinic. Por supuesto, ella es consciente de la capacidad de ingeniería,
+las limitaciones técnicas, la seguridad y todo eso, pero su objetivo principal es ofrecer constantemente
+sus mascotas, junto con características que dejarán muy atrás a los competidores de Pet Clinic. Es competitiva, pero también ha desarrollado
+empatía con el equipo. Está muy orgullosa de sus dos golden retrievers, Bonnie y Clyde.
 
-Brenda works mainly with Paulo, the product owner. She gets to explain what she wants to Paulo and Paulo helps the team to
-prioritize the work so that Brenda can get what the business needs incorporated into the application.
+Brenda trabaja principalmente con Paulo, el product owner. Ella le explica a Paulo lo que quiere, y Paulo ayuda al equipo a
+priorizar el trabajo para que Brenda pueda incorporar a la aplicación lo que la empresa necesita.
 
-She participates in end-of-sprint demos, where she appreciates the opportunity to interact with other members of the team. Between
-the sprint planning and the sprint reviews, Brenda feels she's engaged often - and sometimes too often - by the team. She would like
-to rely on Paulo more.
+Ella participa en las demostraciones del final de sprint, donde aprecia la oportunidad de interactuar con otros miembros del equipo. Entre
+el sprint planning y el sprint review, Brenda siente que el equipo la involucra a menudo, a veces "demasiado". Le gustaría
+contar más con Paulo.
 
-Brenda heard once from Selma, the security contact in the team, when important customer information got hacked. Not a pleasant
-experience for her, for the company, and definitely not for the customers. They traced it down to a hacker named Hal, who has been
-in communication with the team via anonymous e-mail.
+Brenda escuchó una vez a Selma, el contacto de seguridad del equipo, cuando se hackeó información importante de un cliente. No fue una experiencia agradable
+para ella, para la empresa y, desde luego, para los clientes. Rastrearon el ataque hasta un hacker llamado Hal, que ha estado
+en comunicación con el equipo a través de un correo electrónico anónimo.
 
-Brenda is keen to take the Pet Clinic in to new growth areas. A recent foray into Fair Trade pet products was very encouraging so
-she is working work with Paulo to get epics and stories created in the team's backlog so that the required enhancements to the Pet
-Clinic application are ready in time for the planned marketing launch in support of these new product lines.
+Brenda está dispuesta a llevar a Pet Clinic a nuevas áreas de crecimiento. Una reciente incursión en el mercado de productos para mascotas fue muy alentadora, así que
+por lo tanto, está trabajando con Paulo para incluir historias y épicas en el backlog del equipo, de modo que las mejoras necesarias para la aplicación Pet Clinic estén listas a tiempo para el lanzamiento de marketing previsto en apoyo de estas nuevas líneas de productos.
 
 ### Paulo (Product Owner)
 
