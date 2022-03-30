@@ -1,10 +1,10 @@
 {
   "title": "Online DevOps Dojo",
-  "description": "Learning DevOps, for real.  DXC Technology has long embraced the importance of DevOps. We have used multiple Katacoda scenarii to help transform our workforce at scale. We now want via the Online DevOps Dojo to contribute something to the community from whom we have learnt so much.",
+  "description": "Aprendiendo DevOps desde la práctica. Estos laboratorios te ayudaran a entender desde la experimentación en un ambinte seguro, lo que aprendiste en la Digital DevOps Academy",
   "courses": [
     {
-      "title": "Welcome",
-      "description": "Getting started with the Online DevOps Dojo: understanding the back story, setting up your environment.",
+      "title": "Bienvenidos",
+      "description": "Iniciando: entendiendo el contexto de la historia, configurando el entorno.",
       "course_id": "welcome"
     },
     {
